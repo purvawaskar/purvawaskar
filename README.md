@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Full MERN Stack Devlopment**
 
-- 📫 How to reach me **waskarpurva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
